@@ -3,5 +3,5 @@
 
 ### Commands available when the program asks "Do you want to start?":
 
-- uncleared (runs the program without clearing the console after a date/time change) (weight-less and a little bit more precise)
+- *uncleared* (runs the program without clearing the console after a date/time change) (weight-less and a little bit more precise)
 
